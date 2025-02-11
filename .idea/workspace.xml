@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4deca755-9710-46bb-9f40-dec0b5446471" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/desafio 28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/des 30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/des 31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/des 32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/des 33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/des 34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/des 35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/desafio 29.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/desafio 28.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/desafio 28.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +46,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2mtDFEv5dqEI5Rwr3Zx5dEzhuAY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
