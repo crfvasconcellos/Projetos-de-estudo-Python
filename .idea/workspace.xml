@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4deca755-9710-46bb-9f40-dec0b5446471" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/des 30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/des 31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/des 32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/des 33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/des 34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/des 35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/desafio 29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/Aula Bonus de Cores.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/desafio 28.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/desafio 28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/desafio 29.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/aula010/desafio 29.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.desafio 28.executor": "Run",
+    "Python.desafio 29.executor": "Run",
     "Python.exerci 04.executor": "Run",
     "Python.exercicio teste 02.executor": "Run",
     "Python.exercicio teste.executor": "Run",
