@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="teste-ano-bi" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -43,20 +48,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.des 30.executor": "Run",
-    "Python.des 31.executor": "Run",
-    "Python.des 32.executor": "Run",
-    "Python.desafio 28.executor": "Run",
-    "Python.desafio 29.executor": "Run",
-    "Python.exerci 04.executor": "Run",
-    "Python.exercicio teste 02.executor": "Run",
-    "Python.exercicio teste.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.des 30.executor&quot;: &quot;Run&quot;,
+    &quot;Python.des 31.executor&quot;: &quot;Run&quot;,
+    &quot;Python.des 32.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio 28.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio 29.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exerci 04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio teste 02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio teste.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,5 +79,16 @@
       <updated>1727886873956</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
