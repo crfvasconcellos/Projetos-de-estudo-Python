@@ -3,8 +3,12 @@ ano= int(input("ANO: "))
 anobi= (ano % 4)
 
 if ano % 100 == 0 and ano % 400 == 0:
-    print(é bissexto)
-else ano % 400 == 0:
-    print("não é bissexto")
+    print('é bissexto')
+else:
+    if ano % 100 == 0 and anobi == 0:
+        print('não é bissexto')
 
-if ola
+    else:
+        if anobi == 0:
+            print("é bissexto")
+
