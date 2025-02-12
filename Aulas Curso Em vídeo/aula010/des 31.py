@@ -1,5 +1,5 @@
 print("Qual a distância da sua viagem?")
-dis= int(input("Distância (em km): "))
+dis= float(input("Distância (em km): "))
 if dis <= 200:
     val= 0.5 * dis
     print("a sua passagem custará {}".format(val))
