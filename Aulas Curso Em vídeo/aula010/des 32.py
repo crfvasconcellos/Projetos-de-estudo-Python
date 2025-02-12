@@ -13,5 +13,5 @@ else:
 
     else:
         if anobi == 0:
-            print("") aaaaaaaa
+            print("") aaaaaaaaa
 
