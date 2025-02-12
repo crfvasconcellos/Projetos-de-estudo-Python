@@ -13,5 +13,5 @@ else:
 
     else:
         if anobi == 0:
-            print("é  a bissexto")
+            print("é  um ano bissexto")
 
