@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4deca755-9710-46bb-9f40-dec0b5446471" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/Mundo 2 PYTHON/Aula 12/Prática Aula 12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas Curso Em vídeo/Mundo 2 PYTHON/Aula 12/Prática Aula 12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas Curso Em vídeo/Mundo 2 PYTHON/Aula 12/Prática Aula 12.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,24 +50,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.des 30.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des 31.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des 32.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des 33.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des 34.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des 35.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio 28.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio 29.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemplo aula 11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exerci 04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio teste 02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio teste.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Prática Aula 12.executor": "Run",
+    "Python.des 30.executor": "Run",
+    "Python.des 31.executor": "Run",
+    "Python.des 32.executor": "Run",
+    "Python.des 33.executor": "Run",
+    "Python.des 34.executor": "Run",
+    "Python.des 35.executor": "Run",
+    "Python.desafio 28.executor": "Run",
+    "Python.desafio 29.executor": "Run",
+    "Python.exemplo aula 11.executor": "Run",
+    "Python.exerci 04.executor": "Run",
+    "Python.exercicio teste 02.executor": "Run",
+    "Python.exercicio teste.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
