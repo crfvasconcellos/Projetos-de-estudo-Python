@@ -1,5 +1,5 @@
 print('CALCULAREI SUAS DUAS MÉDIAS DA PROVA')
-not1= float(input('NOTA 1:'))
+not1= float(input('NOTA 1: '))
 not2= float(input('NOTA 2: '))
 med= (not1+not2)/2
 if med >= 7:
