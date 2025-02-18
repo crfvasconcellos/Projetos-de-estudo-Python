@@ -1,7 +1,7 @@
 print('=' * 10, 'LOJA', '='*10)
 pre= float(input('Preços das compras: '))
 print('FORMAS DE PAGAMENTO\n [1] À VISTA DINEHIRO/CHEQUE\n [2] À VISTA CRTÃO \n [3] 2X NO CARTÃO\n [4] 3X OU MAIS NO CARTÃO')
-op= input('Qual é a opção? ')
+op= int(input('Qual é a opção? '))
 
 if op == 1:
     pre= pre - (0.1 * pre)
