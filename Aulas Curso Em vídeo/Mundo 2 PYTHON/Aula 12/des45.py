@@ -21,33 +21,34 @@ else:
     print('\033[0;31mSUA OPÇÃO FOI INVÁLIDA')
 
 if op == 'PEDRA'or op == 'PAPEL' or op == 'TESOURA':
-time.sleep(1)
-print('JO')
-time.sleep(1)
-print('KEN')
-time.sleep(1)
-print('PO!!!!')
-print( '-=' * 15 )
-print(f'O COMPUTADOR ESCOLHEU {opc}')
-print(f'VOCÊ ESCOLHEU {op}')
-print( '-=' * 15 )
-#Comparando as opções
-if opc == op:
-    print('EMPATOU!')
-elif op == 'PEDRA' :
-    if opc == 'PAPEL':
-        print('O PC GANHOU!')
-    else:
-        print('VOCÊ GANHOU!')
-elif op == 'PAPEL':
-    if opc == 'TESOURA':
-        print('O PC GANHOU!')
-    else:
-        print('VOCÊ GANHOU!')
-elif op == 'TESOURA':
-   if opc == 'PEDRA':
-        print('O PC GANHOU!')
-   else:
-        print('VOCÊ GANHOU!')
+    time.sleep(1)
+    print('JO')
+    time.sleep(1)
+    print('KEN')
+    time.sleep(1)
+    print('PO!!!!')
+    print( '-=' * 15 )
+    print(f'O COMPUTADOR ESCOLHEU {opc}')
+    print(f'VOCÊ ESCOLHEU {op}')
+    print( '-=' * 15 )
+
+    #Comparando as opções
+    if opc == op:
+        print('EMPATOU!')
+    elif op == 'PEDRA' :
+        if opc == 'PAPEL':
+            print('O PC GANHOU!')
+        else:
+            print('VOCÊ GANHOU!')
+    elif op == 'PAPEL':
+        if opc == 'TESOURA':
+            print('O PC GANHOU!')
+        else:
+            print('VOCÊ GANHOU!')
+    elif op == 'TESOURA':
+       if opc == 'PEDRA':
+            print('O PC GANHOU!')
+       else:
+            print('VOCÊ GANHOU!')
 
 
