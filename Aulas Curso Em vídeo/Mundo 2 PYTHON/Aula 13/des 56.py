@@ -1,4 +1,4 @@
-#Acumuladores e Variáveis 
+#Acumuladores e Variáveis
 idades= 0
 maior= 0
 nmaior= ''
@@ -24,9 +24,11 @@ for c in range (1,5):
             nmaior= nom
 
     #Cálculo mulheres
+    if sex != 'f' and sex != 'm':
+        sex= 'inválido'
+        print('Sexo Não considerado*')
     if  sex == 'f' and ida < 20:
         contm= contm + 1
-
 
 
 #calculo idades
