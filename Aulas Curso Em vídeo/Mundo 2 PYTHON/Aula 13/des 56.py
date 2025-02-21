@@ -15,7 +15,7 @@ for c in range (1,5):
     if ida < 0:
         print('Idade Inválida')
     else:
-        if c == 1:
+        if c == 1 and sex== 'm':
             maior= ida
             nmaior= nom
 
