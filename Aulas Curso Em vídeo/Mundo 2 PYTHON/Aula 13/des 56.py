@@ -1,4 +1,4 @@
-#Acumuladores
+#Acumuladores e Variáveis 
 idades= 0
 maior= 0
 nmaior= ''
