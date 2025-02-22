@@ -12,6 +12,10 @@ while r != 'n':
         print('Parabéns!!! Você acertou de primeira!')
     elif p != num:
         while p != num:
+            if p < num:
+                print('mais...')
+            elif p > num:
+                print('menos...')
             p= int(input('humm, não é esse, tente novamente! Palpite: '))
             c= c + 1
             if p == num:
