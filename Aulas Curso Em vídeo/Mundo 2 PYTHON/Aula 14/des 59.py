@@ -1,4 +1,3 @@
-import time
 print('Calculadora!')
 dec= 0
 dec2= ''
@@ -37,6 +36,8 @@ while cond== 0:
             print('saindo!')
             cond=1
             cond2= 1
+        else:
+            print('Opção Inválida, tente Novamente!')
         if dec == 1 or dec==2 or dec == 3:
             dec2= str(input('Deseja fazer outro tipo de conta? [s/n] ')).upper().strip()
             if dec2 == 'N':
