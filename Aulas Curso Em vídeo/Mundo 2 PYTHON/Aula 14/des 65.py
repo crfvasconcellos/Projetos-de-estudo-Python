@@ -15,5 +15,5 @@ while desejo == 'S':
     desejo= str(input('Quer Continuar? [s/n] ')).upper().strip()
     if desejo == 'N':
         med= float(soma/count)
-        
+
 print('Você digitou {} números e a média foi {}\nO maior valor foi {} e o menor foi {}'.format(count,med,maior,menor))
