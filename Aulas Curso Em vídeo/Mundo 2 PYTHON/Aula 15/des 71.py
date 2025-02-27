@@ -6,7 +6,6 @@ print('=-'*30)
 qcin=qvin=qdez=qum= 0
 valorat=0
 
-
 valsac=int(input('Qual o valor a ser sacado? R$'))
 
 if (valsac // 50) >=1:
@@ -26,6 +25,5 @@ if (valorat//1) >= 1:
     qum= valorat//1
     valorat= valorat - qdez
     print('Total de {} cédulas de R$1'.format(qum))
-
 print('=-' * 30)
 print('Volte Sempre!!!')
