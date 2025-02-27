@@ -6,7 +6,9 @@ print('-'*20)
 while True:
     c = random.randint(1, 10)
     n= int(input('Digite um Valor: '))
-    desejo= str(input('Par ou Ímpar? [P/I] ')).upper().strip()
+    desejo=''
+    while desejo !='P' and desejo != 'I':
+        desejo= str(input('Par ou Ímpar? [P/I] ')).upper().strip()
     soma= n +  c
     #verificando total
     if soma % 2 == 0:
