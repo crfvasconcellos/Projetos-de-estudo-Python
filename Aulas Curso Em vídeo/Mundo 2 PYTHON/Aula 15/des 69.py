@@ -1,6 +1,4 @@
-c18= 0
-ch=0
-m20=0
+c18=m20=ch=0
 while True:
     print('='*20)
     print('CADASTRE UMA PESSOA!')
@@ -27,5 +25,4 @@ while True:
             break
     if desejo == 'N':
         break
-
 print('O total de pessoas maiores que 18 anos é {}\nA quantidade de homens cadastrados é {} \nCerca de {} mulheres tem menos de 20 anos'.format(c18,ch,m20))
